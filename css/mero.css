@@ -1,0 +1,15 @@
+.mero h3 {
+    color: black;
+}
+#home {
+   position: relative;
+ 
+   min-height: 100%;
+   width: 100%;
+   background: #161415 url(../images/o.jpg) no-repeat top center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   text-align: center;
+   overflow: hidden;
+}
+
